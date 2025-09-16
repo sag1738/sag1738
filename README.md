@@ -73,10 +73,6 @@
 
 ###
 
-<img align="right" height="75" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/sagun-karki-063900274/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
