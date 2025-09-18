@@ -1,4 +1,4 @@
-<h1 align="center"> WElcome to my git profile, Myself Sagun Karki</h1>
+<h1 align="center"> Welcome to my git profile, Myself Sagun Karki</h1>
 
 ###
 
